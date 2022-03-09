@@ -1,0 +1,19 @@
+fire
+numpy==1.19.3
+pandas~=0.24.2
+PyYAML~=5.1.1
+-f https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.7.2
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu101
+torchsummary==1.5.1
+-f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.8.2+cu101
+torchviz  # requires graphviz
+tqdm~=4.36.1
+einops
+kornia
+vector_quantize_pytorch
+Pillow~=7.2.0
+aim
+retry
